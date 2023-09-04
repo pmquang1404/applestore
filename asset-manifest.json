@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6002bc6e.css",
-    "main.js": "/static/js/main.f5e5406d.js",
+    "main.js": "/static/js/main.b745ed31.js",
     "static/js/787.518aced0.chunk.js": "/static/js/787.518aced0.chunk.js",
     "static/media/watch1.jpeg": "/static/media/watch1.838dd0f67fe3e707bf60.jpeg",
     "static/media/watch2.jpeg": "/static/media/watch2.5d02978248298434cbf3.jpeg",
@@ -42,11 +42,11 @@
     "static/media/bocongthuong.png": "/static/media/bocongthuong.bb8891bd30d77629c034.png",
     "index.html": "/index.html",
     "main.6002bc6e.css.map": "/static/css/main.6002bc6e.css.map",
-    "main.f5e5406d.js.map": "/static/js/main.f5e5406d.js.map",
+    "main.b745ed31.js.map": "/static/js/main.b745ed31.js.map",
     "787.518aced0.chunk.js.map": "/static/js/787.518aced0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6002bc6e.css",
-    "static/js/main.f5e5406d.js"
+    "static/js/main.b745ed31.js"
   ]
 }
